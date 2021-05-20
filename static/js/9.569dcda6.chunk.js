@@ -1,2 +1,2 @@
 (this["webpackJsonptest-sheriff"]=this["webpackJsonptest-sheriff"]||[]).push([[9],{95:function(e,t,s){"use strict";s.r(t);s(0);var n=s(3);t.default=function(){return Object(n.jsx)("section",{className:"content",children:Object(n.jsx)("header",{children:Object(n.jsx)("h1",{children:"Page not found"})})})}}}]);
-//# sourceMappingURL=9.09505c8d.chunk.js.map
+//# sourceMappingURL=9.569dcda6.chunk.js.map
