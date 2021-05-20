@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/test-sheriff/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/test-sheriff/static/js/main.4384929c.chunk.js",
+    "main.js.map": "/test-sheriff/static/js/main.4384929c.chunk.js.map",
+    "runtime-main.js": "/test-sheriff/static/js/runtime-main.81ed13e0.js",
+    "runtime-main.js.map": "/test-sheriff/static/js/runtime-main.81ed13e0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/test-sheriff/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eefef778.chunk.js": "/test-sheriff/static/js/2.eefef778.chunk.js",
+    "static/js/2.eefef778.chunk.js.map": "/test-sheriff/static/js/2.eefef778.chunk.js.map",
+    "static/js/3.b9abe0a1.chunk.js": "/test-sheriff/static/js/3.b9abe0a1.chunk.js",
+    "static/js/3.b9abe0a1.chunk.js.map": "/test-sheriff/static/js/3.b9abe0a1.chunk.js.map",
+    "static/js/4.67d1f308.chunk.js": "/test-sheriff/static/js/4.67d1f308.chunk.js",
+    "static/js/4.67d1f308.chunk.js.map": "/test-sheriff/static/js/4.67d1f308.chunk.js.map",
+    "static/js/5.c19dbca5.chunk.js": "/test-sheriff/static/js/5.c19dbca5.chunk.js",
+    "static/js/5.c19dbca5.chunk.js.map": "/test-sheriff/static/js/5.c19dbca5.chunk.js.map",
+    "static/js/6.0ce0c8a1.chunk.js": "/test-sheriff/static/js/6.0ce0c8a1.chunk.js",
+    "static/js/6.0ce0c8a1.chunk.js.map": "/test-sheriff/static/js/6.0ce0c8a1.chunk.js.map",
+    "static/js/7.abeaf96a.chunk.js": "/test-sheriff/static/js/7.abeaf96a.chunk.js",
+    "static/js/7.abeaf96a.chunk.js.map": "/test-sheriff/static/js/7.abeaf96a.chunk.js.map",
+    "static/js/8.fbc8878c.chunk.js": "/test-sheriff/static/js/8.fbc8878c.chunk.js",
+    "static/js/8.fbc8878c.chunk.js.map": "/test-sheriff/static/js/8.fbc8878c.chunk.js.map",
+    "static/js/9.09505c8d.chunk.js": "/test-sheriff/static/js/9.09505c8d.chunk.js",
+    "static/js/9.09505c8d.chunk.js.map": "/test-sheriff/static/js/9.09505c8d.chunk.js.map",
+    "index.html": "/test-sheriff/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/test-sheriff/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/test-sheriff/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eefef778.chunk.js.LICENSE.txt": "/test-sheriff/static/js/2.eefef778.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ed13e0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eefef778.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4384929c.chunk.js"
+  ]
+}
